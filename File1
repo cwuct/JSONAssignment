@@ -1,0 +1,40 @@
+{
+JSONAssignment: [
+{
+item: "Laptop",
+category: "Computers",
+price: "1$",
+quantity:"5"
+},
+{
+item: "Dress",
+category: "Clothes",
+price: "2$",
+quantity:"5.5"
+},
+{
+item: "Phone Cover",
+category: "Phone Accessories",
+price: "3$",
+quantity:"10002655"
+}'
+{
+item: "Pencils",
+category: "Suppliers",
+price: "4$",
+quantity:"012365"
+}'
+{
+item: "Android Smartphone",
+category: "Smartphones",
+price: "5$",
+quantity:"10"
+},
+{
+item: "iOS Smartphone",
+category: "Smartphones",
+price: "6$",
+quantity:"7"
+}
+]
+}
