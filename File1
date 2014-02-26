@@ -35,6 +35,30 @@ item: "iOS Smartphone",
 category: "Smartphones",
 price: "6$",
 quantity:"7"
+},
+{
+item: "External HD",
+category: "HDs",
+price: "7$",
+quantity:"70"
+},
+{
+item: "blah",
+category: "nothing o 5",
+price: "8$",
+quantity:"70.23"
+},
+{
+item: "PC Mouse",
+category: "Mouse",
+price: "9$",
+quantity:"458"
+},
+{
+item: "blah2",
+category: "blah2",
+price: "10$",
+quantity:"7"
 }
 ]
 }
