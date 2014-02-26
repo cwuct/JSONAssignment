@@ -59,6 +59,6 @@ item: "blah2",
 category: "blah2",
 price: "10$",
 quantity:"7"
-},
+}
 ]
 }
