@@ -1,12 +1,12 @@
 {"AssignmentJson":
-[{"BookId":"1","BookPrice":"18$","BookDescription":"Nature","BookQuantity":"30","BookCategory":"Teens"},
- {"BookId":"2","BookPrice":"13.51$","BookDescription":"Magic","BookQuantity":"54","BookCategory":"Adults"},
- {"BookId":"3","BookPrice":"20$","BookDescription":"Nature","BookQuantity":"77","BookCategory":"Teens"},
- {"BookId":"4","BookPrice":"9$","BookDescription":"Technology","BookQuantity":"210","BookCategory":"Children"},
- {"BookId":"5","BookPrice":"50$","BookDescription":"Nature","BookQuantity":"630","BookCategory":"Adults"},
- {"BookId":"6","BookPrice":"198$","BookDescription":"Magic","BookQuantity":"1","BookCategory":"Men"},
- {"BookId":"7","BookPrice":"1365$","BookDescription":"Technology","BookQuantity":"9","BookCategory":"Adults"},
- {"BookId":"8","BookPrice":"0.73$","BookDescription":"Magic","BookQuantity":"13","BookCategory":"Men"},
- {"BookId":"9","BookPrice":"19.5$","BookDescription":"Nature","BookQuantity":"65","BookCategory":"Children"},
- {"BookId":"10","BookPrice":"15$","BookDescription":"Technology","BookQuantity":"03","BookCategory":"Teens"}]}
+[{"BookId":"1","BookPrice":"18","BookDescription":"Nature","BookQuantity":"30","BookCategory":"Teens"},
+ {"BookId":"2","BookPrice":"13.51","BookDescription":"Magic","BookQuantity":"54","BookCategory":"Adults"},
+ {"BookId":"3","BookPrice":"20","BookDescription":"Nature","BookQuantity":"77","BookCategory":"Teens"},
+ {"BookId":"4","BookPrice":"9","BookDescription":"Technology","BookQuantity":"210","BookCategory":"Children"},
+ {"BookId":"5","BookPrice":"50","BookDescription":"Nature","BookQuantity":"630","BookCategory":"Adults"},
+ {"BookId":"6","BookPrice":"198","BookDescription":"Magic","BookQuantity":"1","BookCategory":"Men"},
+ {"BookId":"7","BookPrice":"1365","BookDescription":"Technology","BookQuantity":"9","BookCategory":"Adults"},
+ {"BookId":"8","BookPrice":"0.73","BookDescription":"Magic","BookQuantity":"13","BookCategory":"Men"},
+ {"BookId":"9","BookPrice":"19.5","BookDescription":"Nature","BookQuantity":"65","BookCategory":"Children"},
+ {"BookId":"10","BookPrice":"15","BookDescription":"Technology","BookQuantity":"03","BookCategory":"Teens"}]}
 
