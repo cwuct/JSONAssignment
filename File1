@@ -8,5 +8,5 @@
  {"BookId":"7","BookPrice":"1365$","BookDescription":"Technology","BookQuantity":"9","BookCategory":"Adults"},
  {"BookId":"8","BookPrice":"0.73$","BookDescription":"Magic","BookQuantity":"13","BookCategory":"Men"},
  {"BookId":"9","BookPrice":"19.5$","BookDescription":"Nature","BookQuantity":"65","BookCategory":"Children"},
- {"BookId":"10","BookPrice":"1987$","BookDescription":"Technology","BookQuantity":"03","BookCategory":"Teens"}]}
+ {"BookId":"10","BookPrice":"15$","BookDescription":"Technology","BookQuantity":"03","BookCategory":"Teens"}]}
 
